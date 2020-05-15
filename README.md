@@ -5,4 +5,12 @@ by Vetari#1995
 
 startbesked er en resource som sender en besked i din valgte discord kanal når resourcen bliver startet (når serveren starter)
 
-Du sætter dit webhook link ind og ændrer navn og besked i config.lua
+Du downloader resourcen her: https://github.com/Vetaridk/serverlog/releases
+
+Brug:
+  - Start med at downloade resourcen
+  - Sæt mappen "startbesked" ind i din `resources` mappe
+  - Sæt dit webhook link ind i `config.lua` og ændrer navn og besked i samme fil
+  - Skriv ```start startbesked``` i din `server.cfg`
+
+Hvis du stadig har brug for hjælp kan du kontakte mig på discord: Vetari#1995
