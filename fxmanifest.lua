@@ -7,4 +7,7 @@ description 'startbesked er en resource som sender en besked i din valgte discor
 version '1.1'
 
 -- What to run
-server_script 'server.lua'
+server_scripts {
+    "config.lua",
+    'server.lua'
+}
