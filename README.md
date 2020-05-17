@@ -5,7 +5,7 @@ by Vetari#1995
 
 startbesked er en resource som sender en besked i din valgte discord kanal når resourcen bliver startet (når serveren starter)
 
-Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases
+Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases/tag/v1.1
 
 Brug:
   - Start med at downloade resourcen
