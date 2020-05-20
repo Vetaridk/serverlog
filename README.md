@@ -1,22 +1,24 @@
 # startbesked
 
-Simpel resource der sender en besked på discord når din server starter.
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Vetaridk/startbesked/graphs/commit-activity)
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Vetaridk/startbesked) 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/Vetaridk/startbesked/releases/) 
+Simpel resource der sender en besked på discord når din server starter.
 
 ![Billede af discord beskeden](https://cdn.discordapp.com/attachments/635934050384871436/710743015844741120/562bd0cf407c61439df796c094985146.png)
 
-startbesked er en resource som sender en besked i din valgte discord kanal når resourcen bliver startet (når serveren starter)
+## Download
 
-Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases/tag/v1.1
+Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases/tag/v2.0
 
-Brug:
-  - Start med at downloade resourcen
-  - Sæt mappen "startbesked" ind i din `resources` mappe
-  - Sæt dit webhook link ind i `config.lua` og ændrer navn og besked i samme fil
-  - Skriv ```start startbesked``` i din `server.cfg`
+## Dokumentation:
 
-Hvis du stadig har brug for hjælp kan du kontakte mig på discord: Vetari#1995
+Projektet har en inkluderet config fil, hvor der er mulighed for at gøre oplevelsen for jeres spillere mere personligt. 
+Her vil i se en fil: `config.lua`, som primært er configs til diverse Lua filer.
+
+## Retningslinjer
+
+Vigtig: Man må benytte og redigere udgivelsen, men aldrig videregive dem, sælge eller udgive sig for at være udgiveren.
+
+## Kontakt 
+
+Discord: Vetari#1995
