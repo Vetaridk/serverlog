@@ -13,11 +13,11 @@ Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases/ta
 ## Dokumentation:
 
 Projektet har en inkluderet config fil, hvor der er mulighed for at gøre oplevelsen for jeres spillere mere personligt. 
-Her vil i se en fil: `config.lua`, som primært er configs til diverse Lua filer.
+Her vil i se en fil: `config.lua`, som er der i sætter jeres webhook ind samt ændre navn og lign.
 
 ## Retningslinjer
 
-Vigtig: Man må benytte og redigere udgivelsen, men aldrig videregive dem, sælge eller udgive sig for at være udgiveren.
+Vigtig: Man må benytte og redigere udgivelsen, men aldrig videregive den, sælge eller udgive sig for at være udgiveren.
 
 ## Kontakt 
 
