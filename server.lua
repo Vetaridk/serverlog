@@ -7,4 +7,4 @@
 ░░░╚═╝░░░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝
 ]]--
 
-PerformHttpRequest(config.discordwebhook, function(err, text, headers) end, 'POST', json.encode({username = config.discordnavn, content = config.discordbesked}), { ['Content-Type'] = 'application/json' })
+PerformHttpRequest(cfg.discordwebhook, function(err, text, headers) end, 'POST', json.encode({username = cfg.discordnavn, content = cfg.discordbesked}), { ['Content-Type'] = 'application/json' })
