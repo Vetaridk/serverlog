@@ -8,7 +8,7 @@ Simpel resource der sender en besked på discord når din server starter.
 
 ## Download
 
-Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases/tag/v2.0
+Du downloader resourcen her: https://github.com/Vetaridk/startbesked/releases
 
 ## Dokumentation:
 
